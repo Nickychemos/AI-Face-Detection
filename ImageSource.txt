@@ -1,0 +1,4 @@
+The AI and Real face images were sourced from:
+https://www.kaggle.com/datasets/shahzaibshazoo/detect-ai-generated-faces-high-quality-dataset/data
+
+Many thanks to Kaggle for the dataset
